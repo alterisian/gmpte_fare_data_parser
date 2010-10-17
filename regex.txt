@@ -1,3 +1,35 @@
+^\s*(\d+)((?: \d+)*)(\D+)[(]0?\1[)]$
+matches all stage lines
+------------------------------------------
+e.g.
+Result 6
+
+   1. 6
+   2. 150 150 150 130 90
+   3. PLATT LN
+
+Match 1: Stage Number
+Match 2: All Fare Data space seperated
+Match 3: Stage Name
+------------------------------------------
+^
+  start of line
+\s*
+  zero or more whitespace characters
+(\d+)
+  an integer
+((?: \d+)*)
+  multiple integers with leading space
+  ?: indicates don't capture the internal region
+(\D+)
+  one or more non-digits
+[(]0?\1[)]$
+  repeat the 1st match with optional leading zero. $ is end of line
+
+TODO-IM-match the header notes on the Service data - of the first 4 non-captured lines, only the first 3 are of interest
+TODO-IM-is it possible to grab each Fare individually? Else we can just explode the string in code.
+------------------------------------------
+
 (^[\d]{1,2})[ ]*([\d]{1,3})[ ]([\d ]*)([\w ]*)[(](\d{1,2})[)]
 -----------------------------------------------------------
 On:
@@ -20,6 +52,3 @@ OLD BROADWAY
 RNCM 
 03
 -----------------------------------------------------------
-  
------------------------------------------------------------
-
