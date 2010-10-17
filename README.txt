@@ -15,3 +15,8 @@ References:
 
 http://wiki.opendatamanchester.org.uk/index.php/GMPTE_Datasets
 http://samscam.co.uk/random/gmpte.zip
+
+Thanks:
+Michael Lovitt for Rubular - http://rubular.com/
+Sam Easterby-Smith - FOI Request & GMPTE for fulfilling that request
+
