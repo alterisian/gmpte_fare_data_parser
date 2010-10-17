@@ -1,5 +1,5 @@
 ^\s*(\d+)((?: \d+)*)(\D+)[(]0?\1[)]$
-matches all stage lines
+matches any stage line
 ------------------------------------------
 e.g.
 Result 6
@@ -8,9 +8,9 @@ Result 6
    2. 150 150 150 130 90
    3. PLATT LN
 
-Match 1: Stage Number
-Match 2: All Fare Data space seperated
-Match 3: Stage Name
+Match region 1: Stage Number
+Match region 2: All Fare Data space separated
+Match region 3: Stage Name
 ------------------------------------------
 ^
   start of line
@@ -19,12 +19,17 @@ Match 3: Stage Name
 (\d+)
   an integer
 ((?: \d+)*)
-  multiple integers with leading space
-  ?: indicates don't capture the internal region
+  multiple integers, each with a leading space
+  ?: indicates: Don't try to capture the inner region. The inner region is an
+     integer with it's leading space. Trying to capture this will only actually
+     capture the final integer with leading space.
+  Q - Does anyone know how to capture each of these integers individually?
 (\D+)
-  one or more non-digits
-[(]0?\1[)]$
-  repeat the 1st match with optional leading zero. $ is end of line
+  one or more non-numeric-digits
+[(]0?\1[)]
+  repeat the 1st match inside literal parentheses with an optional leading zero
+$
+  end of line
 
 TODO-IM-match the header notes on the Service data - of the first 4 non-captured lines, only the first 3 are of interest
 TODO-IM-is it possible to grab each Fare individually? Else we can just explode the string in code.
