@@ -1,0 +1,105 @@
+OPERATOR  TRADE NAME                    
+  ABC     Atherton Bus Company          
+  ACT     Accrington Transport          
+  ARL     Arriva Liverpool              
+  ASH     Ashall's Coaches              
+  ATC     Aintree Coachlines            
+  ATV     Amber Travel                  
+  BAK     Bakerbus                      
+  BBC     Bluebird Bus & Coach          
+  BBL     Blue Bus                      
+  BBS     Blue Bus                      
+  BBT     Blackburn Transport           
+  BDT     Blackburn with Darwen T'sport 
+  BEE     Arriva Manchester             
+  BEL     South Lancs Travel            
+  BEV     Belle Vue Coaches             
+  BPT     Burnley & Pendle              
+  BRA     Bradshaws Coaches             
+  BUL     R Bullock Buses               
+  BUV     Bu-Val Buses                  
+  BWS     Bowers Coaches                
+  CAL     First Yorkshire West          
+  CHC     Chester's Coaches             
+  CLK     Click Services                
+  CNC     Clifton Coaches               
+  COA     The Coachmasters              
+  COU     Courtesy Coaches              
+  CRO     Arriva Cymru                  
+  CSL     Coachways                     
+  CSS     Coach Services                
+  CTY     County Coaches                
+  DEN     Dennis's Coaches              
+  DGC     D & G Coach & Bus             
+  DVY     Douglas Valley Bus & Coach    
+  ELS     Ellen Smith Tours             
+  FCH     Finches                       
+  FIN     Finglands                     
+  FPR     First Pioneer                 
+  FRE     Freebird Coaches              
+  GCO     G B Coaches                   
+  GMB     GM Buses                      
+  GMN     First                         
+  GMS     Stagecoach Manchester         
+  GOO     Go Goodwins                   
+  GTB     South Lancs Travel            
+  HAY     Hayton's Coaches              
+  HBC     Huddersfield Bus Company      
+  HHC     Hulme Hall Coaches            
+  HTL     HTL Buses                     
+  JPX     J P Travel                    
+  JSC     Jim Stones Coaches            
+  KFR     First                         
+  KMT     K'Matt Coaches                
+  LAC     L.A. Coaches                  
+  LCL     Ashall's Coaches              
+  LTL     Leisure Travel                
+  LUL     Lancashire United             
+  MAY     Mayne of Manchester           
+  MET     Metrolink                     
+  MHT     M & H Travel                  
+  MRT     M R Travel                    
+  MTL     Arriva Merseyside             
+  MTR     M Travel Mini Buses           
+  MTT     Maytree Travel                
+  MYB     U. K. North                   
+  NBE     Northern Blue                 
+  NOR     Arriva North West             
+  OLY     Olympia Travel                
+  PIO     Pioneer Travel                
+  PMT     First                         
+  RAM     Houston Ram                   
+  RDT     Rossendale Transport          
+  RIT     Rothwells Super Travel        
+  RKT     Red Kite Travel               
+  RMS     Stagecoach In Lancashire      
+  RSL     Strawberry Bus                
+  RWC     Ringwood Luxury Coaches       
+  RWY     Ringway Minibus              
+  SFC     Springfield Coachways        
+  SPL     Speedwellbus                 
+  SPO     Pioneer Travel               
+  STE     Arriva Midlands North        
+  STO     Stott's of Oldham            
+  SUR     Sureway Travel               
+  SWA     Swans Travel                 
+  TAN     Checkmate Mini Coaches       
+  TLB     Town Lynx Buses              
+  TLT     Timeline Travel              
+  TML     Travel Master                
+  TMT     Trent Buses                  
+  TSB     Tattersall's Bus & Coach     
+  TTL     TM Travel                    
+  TTS     Thor Tpt (assoc with Bluebird
+  TWM     Williams Coaches             
+  TYT     Tyrer Bus                    
+  VAL     Vale of Manchester           
+  VIK     Viking Coaches                
+  VLL     Vale of Llangollen Travel     
+  WBC     Arriva Manchester (Wigan Area)
+  WBL     Wigan Buses                   
+  WBT     Warrington Borough Transport  
+  WCW     Bennett's                     
+  WES     Midwest Buses                 
+  WML     Manchester Community Transport
+  WTZ     W. Tresize                    
